@@ -1,4 +1,4 @@
-# TruthAndDare-C
+# Truth And Dare
 
 ![](https://images.pexels.com/photos/1080722/pexels-photo-1080722.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260)
 # Welcome to the Project's wiki!
